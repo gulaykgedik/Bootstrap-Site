@@ -1,0 +1,55 @@
+/* Google Fonts  font-family: "Raleway", sans-serif; */
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+.logo {
+  font-weight: 600;
+  letter-spacing: 5px;
+}
+.imgSlider {
+  height: 600px;
+}
+.about {
+  background-color: #f2f2f2;
+}
+.reagent {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+.iwhite {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+.igray {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #ffff;
+  background-color: #ffff;
+}
+.teamCard > img:hover {
+  opacity: 0.8;
+}
+.galery {
+  background-color: #f2f2f2;
+}
+.figure:hover {
+  opacity: 0.8;
+  width: 100%;
+}
+.label-text {
+  display: flex;
+  justify-content: start;
+  font-weight: 500;
+}
