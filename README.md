@@ -17,7 +17,7 @@ Proje, temel HTML, CSS ve Bootstrap bileşenleri kullanılarak geliştirilmişti
 # Kullanılan Teknolojiler
 <br>
 
-- HTML5
+- HTML
 - CSS
 - Bootstrap
 
